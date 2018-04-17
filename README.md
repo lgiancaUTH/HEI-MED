@@ -8,12 +8,7 @@ The dataset is composed of 169 Jpeg images compressed at highest quality We have
 
 The table on the right shows the distributions of various characteristics of these images. Each image of the dataset was manually segmented by Dr. Edward Chaum (an expert ophthalmologist). He identified all the exudation areas and other bright lesions such as cotton wool spots, drusens or clearly visible fluid occurring on the fundus. There was no distinction between hard and soft exudates because this differentiation is prone to errors and without a clear clinical advantage for the diagnosis.
 
-The ELVD quality metric is an algorithm by our group to numerically quantify the quality of a fundus image. More information are available [link](https://tel.archives-ouvertes.fr/tel-00692354 "here").
-
-In addition to the images and the ground truth, we provide other anonymous clinical metadata about the patients, the optic nerve manually identified location, the machine segmented vasculature (employing the method of Zana and Klein) and a Matlab class to seamlessly access all the data and metadata without having to deal with the internal format of the files.
-
-The HEI-MED can be used exclusevely for research purposes and it should reference this website (or the following paper: Giancardo, L.; Meriaudeau, F.; Karnowski, T. P.; Li, Y.; Garg, S.; Tobin, Jr, K. W.; Chaum, E. (2012), 'Exudate-based diabetic macular edema detection in fundus images using publicly available datasets.', Medical Image Analysis 16(1), 216--226.).
-
+In addition to the images and the ground truth, we provide other anonymous clinical metadata about the patients, the optic nerve manually identified location, the machine segmented vasculature (employing the method of Zana and Klein), the ELVD quality metric and a Matlab class to seamlessly access all the data and metadata without having to deal with the internal format of the files. The ELVD quality metric is an algorithm to numerically quantify the quality of a fundus image. More information are available [link](https://tel.archives-ouvertes.fr/tel-00692354 "here").
 
 An object oriented Matlab class to access HEI-MED is provided. The following methods are available:
 ```
@@ -66,6 +61,9 @@ imagesc(imgProb);
 uiwait;
 end
 ```
+# Conditions of use
+
+The HEI-MED can be used exclusevely for non-commercial research purposes and it should reference the following paper: Giancardo, L.; Meriaudeau, F.; Karnowski, T. P.; Li, Y.; Garg, S.; Tobin, Jr, K. W.; Chaum, E. (2012), 'Exudate-based diabetic macular edema detection in fundus images using publicly available datasets.', Medical Image Analysis 16(1), 216--226.
 
 # Contacts
 
