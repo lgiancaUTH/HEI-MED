@@ -63,7 +63,7 @@ end
 ```
 # Conditions of use
 
-The HEI-MED can be used exclusevely for non-commercial research purposes. Any type of publications created with this dataset should reference the following paper: Giancardo, L.; Meriaudeau, F.; Karnowski, T. P.; Li, Y.; Garg, S.; Tobin, Jr, K. W.; Chaum, E. (2012), 'Exudate-based diabetic macular edema detection in fundus images using publicly available datasets.', Medical Image Analysis 16(1), 216--226.
+The HEI-MED can be used exclusevely for non-commercial research purposes. Any type of publications created with this dataset need to reference the following paper: Giancardo, L.; Meriaudeau, F.; Karnowski, T. P.; Li, Y.; Garg, S.; Tobin, Jr, K. W.; Chaum, E. (2012), 'Exudate-based diabetic macular edema detection in fundus images using publicly available datasets.', Medical Image Analysis 16(1), 216--226.
 
 # Contacts
 
