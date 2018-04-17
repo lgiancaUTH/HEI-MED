@@ -1,0 +1,27 @@
+~ImageName:~(00000198).jpg
+~PatientGender~F
+~PatientRace~AFRICAN
+~PatientDOB~8/23/1963
+~ClinicID~Clinic003
+~RightEyeImage~False
+~QualityValue~0.8443481
+~AutoCondition~
+~ConditionID~1~No diabetic retinopathy
+~QAStatus~PASS
+~DiabetesType~TYPE II
+~DiabetesFirstDiagnosed~2008
+~DiabetesDrug~PILL
+~Smoking~NO
+~Pregnancy~NO
+~Hypertension~YES
+~KidneyDisease~NO
+~Stroke~NO
+~PreviousMyocardialInfarction~NO
+~CoronaryArteryDisease~NO
+~HgbA1c~13
+~Cholesterol~180
+~PriorLaserSurgery~NOTSET
+~Comments~
+~ONrow~854
+~ONcol~518
+

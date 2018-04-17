@@ -1,0 +1,404 @@
+11
+Intraretinal Hemmorhage 0
+Intraretinal Hemmorhage 0
+Intraretinal Hemmorhage 0
+MicroAneurysm 0
+Intraretinal Hemmorhage 0
+Bright Scar 1
+Bright Scar 1
+MicroAneurysm 0
+MicroAneurysm 0
+MicroAneurysm 0
+MicroAneurysm 0
+0
+38
+9
+NPDR
+7: NPDR Severe + CSME
+6: NPDR Severe - CSME
+5: NPDR Moderate + CSME
+4: NPDR Moderate - CSME
+3: NPDR Mild/Minimal + CSME
+2: NPDR Mild/Minimal - CSME
+1: Absent
+0: Unknown
+PDR
+5: PDR + CSME
+4: PDR - CSME
+3: PDR + HRC + CSME
+2: PDR + HRC - CSME
+1: Absent
+0: Unknown
+
+
+AMD
+4: Grade4
+3: Grade3
+2: Grade2
+1: Grade1
+A: Absent
+0: Unknown
+
+
+Ret Exud
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Fluid without CSME
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+CSME
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Flame HEM
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Preretinal HEM
+2: Present anywhere
+1: Absent
+0: Unknown
+
+
+
+
+
+Subretinal HEM
+2: Present anywhere
+1: Absent
+0: Unknown
+
+
+
+
+
+MA/DBH
+4. Intraretinal HEM
+3: Many anywhere
+2: Few anywhere
+1: Absent
+0: Unknown
+
+
+
+Small/Medium blot HEM
+5: High Density, regional
+4: High density, not regional
+3: Low density, regional
+2: Low density, not regional
+1: Absent
+0: Unknown
+
+
+CWS
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Ret NV
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+NVD
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+NVE
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Vein Diameter
+4: Tortuosity, global
+3: Tortuosity, segmental
+2: Venous beading
+1: Normal
+0: Unknown
+
+
+
+Artery Diameter
+4: Microaneurysm
+3: Narrowing global
+2: Narrowing segmental
+1: Normal
+0: Unknown
+
+
+
+Vasc Remodeling
+4: Telangiectasis only
+3: IRMA only
+2: Telangiectasis and IRMA
+1: Absent
+0: Unknown
+
+
+
+AV Crossing Changes
+2: One or more examples
+1: Absent or not in picture
+0: Unknown
+
+
+
+
+
+Sheathing
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Emboli
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+ON Vasc Anomaly
+3: Congenital
+2: Shunt
+1: Absent
+0: Unknown
+
+
+
+
+ON Topo
+6: Tilted
+5: Elongated vertically
+4: Notched
+3: Shelved
+2: Swollen
+1: Normal
+0: Unknown
+
+ON Swelling
+4: Severe
+3: Moderate
+2: Mild
+1: Absent
+0: Unknown
+
+
+
+ON HEM
+3: Diffuse
+2: Splinter
+1: Absent
+0: Unknown
+
+
+
+
+ON Color
+4: Erythema
+3: Sector pallor
+2: Pale
+1: Normal
+0: Unknown
+
+
+
+Hard Drusen
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Soft Drusen
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Basal Laminar Drusen
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Hereditary Drusen
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+GA
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+ERM
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Pigmentary changes
+6: Mottling
+5: Window defects
+4: Vitelliform
+3: Laser scars
+2: Pigment Migration
+1: Absent
+0: Unknown
+
+Scar
+6: Hypertrophy of RPE
+5: Subretinal Fibrosis
+4: Bright Scar
+3: Dark Scar
+2: Scar, Undefined
+1: Absent
+0: Unknown
+
+RPED
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+CNV
+3: Active
+2: Inactive
+1: Absent
+0: Unknown
+
+
+
+
+Artifact
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+Nevus
+2: Present
+1: Absent
+0: Unknown
+
+
+
+
+
+2: NPDR Mild/Minimal - CSME
+1: Absent
+A: Absent
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+4. Intraretinal HEM
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+1: Normal
+4: Microaneurysm
+1: Absent
+1: Absent or not in picture
+1: Absent
+1: Absent
+1: Absent
+1: Normal
+1: Absent
+1: Absent
+1: Normal
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+4: Bright Scar
+1: Absent
+1: Absent
+1: Absent
+1: Absent
+NA
+NA
+NA
+-0.1
+0
+Prior laser treatment
+No evidence of active leakage OS
+No image of right eye resend OD image if available
+Recommend f/u formal eye exam  in 4-6 months if no additional disease
