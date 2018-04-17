@@ -1,12 +1,6 @@
 # HEI-MED, What is this?
 
-The Hamilton Eye Institute Macular Edema Dataset (HEI-MED) (formerly DMED) is a collection of 169 fundus images to train and test image processing algorithms for the detection of exudates and diabetic macular edema. The images have been collected as part of a telemedicine network for the diagnosis of diabetic retinopathy currently developed by the Hamilton Eye Institute, the Image Science and Machine Vision Group at ORNL with the collaboration of the Université de Bourgogne.
-
-# Why?
-
-There are various reasons for publishing this data. Firstly, we would like to actively contribute to the development of new algorithms for the automatic detection of diabetic retinopathy and related diseases. A publicly available dataset can help the development of new techniques.
-
-Secondly, existing algorithms for the segmentation of exudates and the detection of diabetic macular edema could not be easily compared because many authors have employed independent datasets. A common dataset might be able to makes the comparison easier. We have started this task by implementing two existing techniques and by comparing it with our own. The results have been sent to a journal paper for consideration.
+The Hamilton Eye Institute Macular Edema Dataset (HEI-MED) (formerly DMED) is a collection of 169 fundus images to train and test image processing algorithms for the detection of exudates and diabetic macular edema. The images have been collected as part of a telemedicine network for the diagnosis of diabetic retinopathy currently developed by the Hamilton Eye Institute, the Image Science and Machine Vision Group at ORNL with the collaboration of the Université de Bourgogne. The dataset collection and cleaning was completed in 2010.
 
 # Dataset description
 
@@ -75,4 +69,4 @@ end
 
 # Contacts
 
-We would like to know what you think about the dataset. So please, send an e-mail with comments, complaints or suggestions to
+We would like to know what you think about the dataset. So please, send an e-mail with comments, complaints or suggestions to luca DOT giancardo AT tmc DOT uth DOT edu
