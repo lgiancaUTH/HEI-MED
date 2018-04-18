@@ -1,6 +1,6 @@
 # HEI-MED, What is this?
 
-The Hamilton Eye Institute Macular Edema Dataset (HEI-MED) (formerly DMED) is a collection of 169 fundus images to train and test image processing algorithms for the detection of exudates and diabetic macular edema. The images have been collected as part of a telemedicine network for the diagnosis of diabetic retinopathy currently developed by the Hamilton Eye Institute, the Image Science and Machine Vision Group at ORNL with the collaboration of the Université de Bourgogne. The dataset collection and cleaning was completed in 2010.
+The Hamilton Eye Institute Macular Edema Dataset (HEI-MED) (formerly DMED) is a collection of 169 fundus images to train and test image processing algorithms for the detection of exudates and diabetic macular edema. The images have been collected as part of a telemedicine network for the diagnosis of diabetic retinopathy developed by the Hamilton Eye Institute, the Image Science and Machine Vision Group at ORNL with the collaboration of the Université de Bourgogne. The dataset collection and cleaning was completed in 2010.
 
 # Dataset description
 
